@@ -1,5 +1,5 @@
 --[[
--- THIS SCRIPT HAS BEEN CODED BY ARDA (discord.gg/hzBAruhe2X)
+-- THIS SCRIPT HAS BEEN CODED BY RAFA (discord.gg/MilkUp)
 -- DON'T BE A STUPID SKIDDIE THAT STEAL PEOPLE CODE AND PUT ON A SHIT PAID (or "watch ad to get key") SCRIPT
 -- hi Project WD please don't steal my code again thx
 
@@ -22,8 +22,8 @@
 
 
 -- Important Variables
-local SCRIPT_NAME = "Cypaex Hub"
-local SCRIPT_VERSION = "v0.4" -- Hey arda remember to change it before updating lmao
+local SCRIPT_NAME = "Rafa PSX GUI"
+local SCRIPT_VERSION = "v0.4" -- Hey rafa remember to change it before updating lmao
 
 -- Detect if the script has executed by AutoExec
 local AutoExecuted = false
@@ -518,12 +518,12 @@ if game.PlaceId == 6284583030 or game.PlaceId == 10321372166 or game.PlaceId == 
 	
 
 	local Window = Rayfield:CreateWindow({
-	   Name = "Pet Simulator GUI | by Cypaex ",
+	   Name = "Pet Simulator GUI | by Rafa ",
 	   LoadingTitle = SCRIPT_NAME .. " " .. SCRIPT_VERSION,
-	   LoadingSubtitle = "by Cypaex",
+	   LoadingSubtitle = "by Rafa",
 	   ConfigurationSaving = {
 		  Enabled = true,
-		  FolderName = "rafa",
+		  FolderName = "Rafa",
 		  FileName = "PetSimulatorX_" .. tostring(LocalPlayer.UserId)
 	   },
 	   OldTabLayout = true
@@ -599,7 +599,7 @@ if game.PlaceId == 6284583030 or game.PlaceId == 10321372166 or game.PlaceId == 
 	
 	
 	local autoFarmTab = Window:CreateTab("Farm", "13075651575", true)
-	local stats = autoFarmTab:CreateParagraph({Title = "Hello, <b><font color=\"#2B699F\">" .. LocalPlayer.DisplayName .. "</font></b>!", Content = "Thanks for using my script! - Rafa\nMake sure to join us at <b><font color=\"#2B699F\">discord.gg/hzBAruhe2X</font></b>"})
+	local stats = autoFarmTab:CreateParagraph({Title = "Hello, <b><font color=\"#2B699F\">" .. LocalPlayer.DisplayName .. "</font></b>!", Content = "Thanks for using my script! - Rafa\nMake sure to join us at <b><font color=\"#2B699F\">discord.gg/MilkUp</font></b>"})
 	local autoFarmSection = autoFarmTab:CreateSection("Auto Farm", false, false, "7785988164")
 	local enableAutoFarm = false
 	autoFarmTab:CreateToggle({
@@ -2532,16 +2532,16 @@ if game.PlaceId == 6284583030 or game.PlaceId == 10321372166 or game.PlaceId == 
 	end)
 end
 
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
--- discord.gg/hzBAruhe2X
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
+-- discord.gg/MilkUp
